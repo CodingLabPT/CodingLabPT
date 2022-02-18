@@ -1,6 +1,6 @@
 ## Olá, eu sou o Mário Mendes
 
-- 🔭 Atualmente sou estudante de programação
+- 🔭 Eterno estudante de programação!!
 - 🌱 Terminei a minha formação em Programação de Jogos assim com web & Mobile Development
 - 📧 Contacte-me através do email: mariomendesdeveloper@gmail.com
 
