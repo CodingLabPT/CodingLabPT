@@ -19,12 +19,6 @@
 
 <a href="https://www.mariomendesdeveloper.com/" target="_blank"><img src="https://img.shields.io/badge/Site-654321?style=for-the-badge&logo=site&logoColor=white"></a>
 
-<a href="https://sketchfab.com/mariomendesdeveloper"><img src="https://img.shields.io/badge/-Sketchfab-f44400?style=for-the-badge&logo=sketchfab&logoColor=white" target="_blank"></a>
-
-<a href="https://codinglabpt.itch.io/"><img src="https://img.shields.io/badge/-Itch.io-555555?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
-
-<a href="https://www.linkedin.com/in/mario-mendes-24457554/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
 </div>
   
 ##
