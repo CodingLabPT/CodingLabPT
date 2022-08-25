@@ -9,10 +9,11 @@
     <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=CodingLabPT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
     <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingLabPT&layout=compact&langs_count=16&theme=dracula">
 </div>
+
 <br>
   
   
-<div>  
+<div style="display:flex">  
 
 <a href="https://www.youtube.com/channel/UCHwd1L8VjBE1vCghynaZoqw" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
