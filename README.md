@@ -13,7 +13,7 @@
   
 ##
   
-<!-- Tecnologias -->  
+<!-- Redes Sociais / contactos -->  
 
   
 
