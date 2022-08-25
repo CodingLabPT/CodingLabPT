@@ -11,9 +11,32 @@
 </div>
 <br>
   
+##
+  
+<!-- Tecnologias -->  
+
+  
+
+<div style="display: inline_block">  
+
+<h3> Front-end </h3>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40" />
+<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  
+##   
+  
 <div>  
 
+<a href="https://www.youtube.com/channel/UCHwd1L8VjBE1vCghynaZoqw" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
+<a href="https://www.mariomendesdeveloper.com/" target="_blank"><img src="https://img.shields.io/badge/Site-654321?style=for-the-badge&logo=site&logoColor=white"></a>
+
+<a href="https://sketchfab.com/mariomendesdeveloper"><img src="https://img.shields.io/badge/-Sketchfab-f44400?style=for-the-badge&logo=sketchfab&logoColor=white" target="_blank"></a>
+
+<a href="https://codinglabpt.itch.io/"><img src="https://img.shields.io/badge/-Itch.io-555555?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
+
+<a href="https://www.linkedin.com/in/mario-mendes-24457554/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
   
